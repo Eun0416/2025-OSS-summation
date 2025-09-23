@@ -1,14 +1,14 @@
 # 2025-OSS-summation
 ### 개별과제
 - 개인 github 저장소 구축
- - 잔디심기
- - 개인 github 첫 페이지 꾸미기(readme.md)
+  - 잔디심기
+  - 개인 github 첫 페이지 꾸미기(readme.md)
 
 - OSS 교과목 내용 정리
- - 자기주도학습에 의해 하나의 저장소 생성 후 구축
+  - 자기주도학습에 의해 하나의 저장소 생성 후 구축
 
 - 개인과제 주소
--  [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
+  -  [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
 
  #### 마감일 : 2025.12.10(수)
 
