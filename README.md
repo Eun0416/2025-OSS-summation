@@ -8,7 +8,7 @@
   - 자기주도학습에 의해 하나의 저장소 생성 후 구축
 
 - 개인과제 주소
-  -  [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
+  -  [A반](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
 
  #### 마감일 : 2025.12.10(수)
 
