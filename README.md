@@ -20,6 +20,6 @@
   - 내용 파일은 md 파일로 작성
 
 - 팀과제 주소 업로드
-  - [A반(월요일 오전)]()
+  - [A반(월요일 오전)](https://docs.google.com/spreadsheets/d/1jspPCAV-wAbZMOj09LpKvqYix6TsVyFgk6LF_zR9rpY/edit?usp=sharing)
   
 #### 마감일 : 2025.12.07(일) 
